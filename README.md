@@ -63,7 +63,7 @@ System structure and scalability utilities.
 
 import statistics
 
-class System:
+class Systemarch:
     """Ensures clarity, balance, and scalability in system design."""
 
     def health_check(self, values) -> str:
