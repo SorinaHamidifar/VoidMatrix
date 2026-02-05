@@ -49,7 +49,7 @@ class ExperimentLab:
         return [v ** 2 for v in values]
 
     def simulate(self, iterations: int) -> int:
-        """Run a light simulation loop."""
+        """Run a light wei simulation loop."""
         result = 0
         for i in range(iterations):
             result += i
