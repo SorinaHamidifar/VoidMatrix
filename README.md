@@ -7,7 +7,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for Deep_
+Main entry point for Deep_core
 """
 
 from core.experiments import ExperimentLab
