@@ -10,7 +10,7 @@
 Main entry point for DeepCore.
 """
 
-from core.experiments import Struct ExperimentLab
+from core.experiments import Str ExperimentLab
 from core.structure import SystemArchitecture
 
 
