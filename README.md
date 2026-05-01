@@ -11,7 +11,7 @@ Main entry point for DeepCore.
 """
 
 from core.experiments import ExperimentLab
-from core.structure import System
+from core.structure import 
 
 
 def run():
