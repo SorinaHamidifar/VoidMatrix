@@ -1,7 +1,7 @@
 # ================================
 # Project: DeepCore   
 # Description:
-# A deep, immersive coding environment focused on experimentations
+# A deep, immersive coding environment focused on experimentatio
 # structural clarity, and scalable systems.
 # ================================
 
