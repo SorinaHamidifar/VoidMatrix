@@ -1,5 +1,5 @@
 # ================================
-# Project: DeepCore focused on exper
+# Project: DeepCore focused on 
 # Description:
 # A deep, immersive coding environment focused on experimentation,
 # structural clarity, and scalable systems.
